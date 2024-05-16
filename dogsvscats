@@ -1,4 +1,4 @@
-# I used kaggle platform to execute the code
+# I used kaggle platform to execute the code and download the dataset from kaggle(dogsvscats)
 import numpy as np 
 import pandas as pd
 import os
