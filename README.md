@@ -1,4 +1,10 @@
 # Bharatintern_datascience
-This project is about dogs vs cats classification
-for the execution, I used kaggle platform 
-we have to use the dogsvscats dataset for this task which was available in kaggle 
+------------------------------
+TITANIC CLASSIFICATION
+------------------------------
+The first task in Bharatintern is Titanic classfication I used python3 and the titanic dataset(https://www.kaggle.com/competitions/titanic/data?select=train.csv)
+
+------------------------------
+DOGS VS CATS CLASSIFICATION
+------------------------------
+The first task in Bharatintern is DogsvsCats classfication I used kaggle notebook and dogsvscats dataset which is available in kaggle platform
